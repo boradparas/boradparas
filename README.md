@@ -10,4 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn @parasborad](https://www.linkedin.com/in/parasborad), [Medium @boradparas](https://medium.com/@boradparas)
 - ⚡ Fun fact: I can die to get that book earlier.
 
-<img src="https://github-readme-stats.vercel.app/api?username=boradparas&&show_icons=true&title_color=F9F7F7&icon_color=3F72AF&text_color=F9F7F7&bg_color=112D4E">
+<p float="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=boradparas&&show_icons=true&title_color=F9F7F7&icon_color=3F72AF&text_color=F9F7F7&bg_color=112D4E">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boradparas&layout=compact">
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boradparas&repo=auto_route_tutorial&bg_color=112D4E&text_color=F9F7F7&title_color=F9F7F7&icon_color=3F72AF" />
+</a>
