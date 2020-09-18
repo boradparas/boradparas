@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Unreal Engine.
 - 💬 Ask me about Flutter or Python technologies.
 - 📫 How to reach me: LinkenIn @parasborad
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I can die to get that book earlier.
