@@ -7,5 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with Unreal Engine.
 - 💬 Ask me about Flutter or Python technologies.
-- 📫 How to reach me: LinkenIn @parasborad
+- 📫 How to reach me: [LinkedIn @parasborad](https://www.linkedin.com/in/parasborad), [Medium @boradparas](https://medium.com/@boradparas)
 - ⚡ Fun fact: I can die to get that book earlier.
+
+<img src="https://github-readme-stats.vercel.app/api?username=boradparas&&show_icons=true&title_color=F9F7F7&icon_color=3F72AF&text_color=F9F7F7&bg_color=112D4E">
