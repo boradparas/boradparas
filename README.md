@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can die to get that book earlier.
 
 <p float="left">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=boradparas&&show_icons=true&title_color=F9F7F7&icon_color=3F72AF&text_color=F9F7F7&bg_color=112D4E">
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=boradparas&show_icons=true&theme=radical&title_color=F9F7F7&icon_color=3F72AF&text_color=F9F7F7&bg_color=112D4E">
    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boradparas&layout=compact&bg_color=112D4E&text_color=F9F7F7&title_color=F9F7F7&icon_color=3F72AF">
 
 <a href="https://github.com/boradparas/auto_route_tutorial">
