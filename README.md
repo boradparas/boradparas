@@ -1,6 +1,7 @@
 ## Hey, Paras here
 - I’m currently working with Flutter
-- 📫 How to reach me: [LinkedIn @parasborad](https://www.linkedin.com/in/parasborad), [Medium @boradparas](https://medium.com/@boradparas) 
+- Contact on [LinkedIn @parasborad](https://www.linkedin.com/in/parasborad) or boradparas99@gmail.com
+- [Medium @boradparas](https://medium.com/@boradparas) 
 
 <!-- <p float="left"> 
    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=boradparas&show_icons=true&theme=radical&title_color=F9F7F7&icon_color=3F72AF&text_color=F9F7F7&bg_color=112D4E">
