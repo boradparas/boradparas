@@ -1,6 +1,6 @@
 ## Hey, Paras here
 - I’m currently working with Flutter
-- Contact on [LinkedIn @parasborad](https://www.linkedin.com/in/boradparas) or boradparas99@gmail.com
+- Contact on [LinkedIn @boradparas](https://www.linkedin.com/in/boradparas) or boradparas99@gmail.com
 - [Medium @boradparas](https://medium.com/@boradparas) 
 
 <!-- <p float="left"> 
