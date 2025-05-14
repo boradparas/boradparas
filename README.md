@@ -1,5 +1,5 @@
 ## Hey, Paras here
-- A Lead mobile app developer(Using Flutter) working In a YC backed startup - StudyStream
+- A Lead mobile app developer working In a YC backed startup - StudyStream
 - Contact on [LinkedIn @boradparas](https://www.linkedin.com/in/boradparas) or boradparas99@gmail.com
 - [Medium @boradparas](https://medium.com/@boradparas) 
 
